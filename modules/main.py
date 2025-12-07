@@ -69,7 +69,7 @@ async def start(bot, m: Message):
         )
     await bot.send_photo(
         chat_id=m.chat.id,
-        photo="https://img.sanishtech.com/u/8a818e2e7327dec52d677534b794ad80.jpg",
+        photo="https://freeimage.host/i/fuOYLMP",
         caption=caption,
         reply_markup=keyboard
     )
